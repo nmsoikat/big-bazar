@@ -1,0 +1,7 @@
+./big-bazar/.firebase/
+./big-bazar/.git/
+./big-bazar/node_modules/
+
+./big-bazar-server/.git/
+./big-bazar-server/node_modules/
+./big-bazar-server/.env/
